@@ -1,0 +1,13 @@
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\bin\Debug\netcoreapp3.1\Pinz Game Server.exe
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\bin\Debug\netcoreapp3.1\Pinz Game Server.deps.json
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\bin\Debug\netcoreapp3.1\Pinz Game Server.runtimeconfig.json
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\bin\Debug\netcoreapp3.1\Pinz Game Server.runtimeconfig.dev.json
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\bin\Debug\netcoreapp3.1\Pinz Game Server.dll
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\bin\Debug\netcoreapp3.1\Pinz Game Server.pdb
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.csprojAssemblyReference.cache
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.AssemblyInfoInputs.cache
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.AssemblyInfo.cs
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.csproj.CoreCompileInputs.cache
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.dll
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.pdb
+C:\Users\richa\Documents\Game Servers\Pinz Game Server\obj\Debug\netcoreapp3.1\Pinz Game Server.genruntimeconfig.cache
