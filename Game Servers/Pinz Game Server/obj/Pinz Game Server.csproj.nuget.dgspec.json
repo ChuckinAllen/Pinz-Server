@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj": {}
+    "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj": {
+    "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj",
+        "projectUniqueName": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj",
         "projectName": "Pinz Game Server",
-        "projectPath": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj",
+        "projectPath": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\obj\\",
+        "outputPath": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Game Servers\\Pinz Game Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

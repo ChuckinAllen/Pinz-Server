@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5BQ/F+AXfND1roU5cuxlnSBSt8MugWRyh4O5MRO5mUZ+81NJ3fqGFQGUqcJU2/TI0N/5AEpAsKKbwycbb2pC5A==",
+  "dgSpecHash": "q4MkoShcIKSgr+UtVvCPyt8jI2MXVHwm7xjnM81ZSsg4+wheGVsED+8iBxrqdTVcAVY+X6VHucZ/0PhZR/zC2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Documents\\Game Servers\\Pinz Game Server\\Game Servers\\Pinz Game Server\\Pinz Game Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
